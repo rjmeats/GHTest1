@@ -17,5 +17,158 @@
         "county": "Queen's County / Laois"
       }
     }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.285,
+          52.930
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABBEY-LEIX-BLANDSFORT",
+        "county": "Queen's County / Laois"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.619,
+          50.664
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABBOTSBURY-CASTLE",
+        "county": "Dorset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.615,
+          50.505
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABBOTSKERSWELL-COURT-GRANGE",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.526,
+          51.191
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABBOTTS-ANN-ANDOVER",
+        "county": "Hampshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.441,
+          51.715
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDARE-ABERNANT",
+        "county": "Glamorgan"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.441,
+          51.710
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDARE-MARDY",
+        "county": "Glamorgan"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.467,
+          51.751
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDARE-NANTHIR-RES",
+        "county": "Brecknockshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.466,
+          51.751
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDARE-NANTHIR-RES",
+        "county": "Brecknockshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.492,
+          57.049
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDEEN-BANCHORY",
+        "county": "Kincardineshire"
+      }
+    }
   ]
 }
