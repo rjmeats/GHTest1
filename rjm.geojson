@@ -453,7 +453,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "water",
+        "marker-symbol": "o",
  		"marker-size": "large",
 		"marker-color": "9944AA",
        "name": "The Tombs",
