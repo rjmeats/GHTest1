@@ -453,8 +453,10 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "The Tombs",
+        "marker-symbol": "circle",
+ 		"marker-size": "large",
+		"marker-color": "0x9944AA",
+       "name": "The Tombs",
         "address": "1226 36th St NW"
       }
     }
