@@ -12,6 +12,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
+		"marker-size": "large",
         "name": "The Exchange",
         "address": "1719 G St NW"
       }
@@ -27,6 +28,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
+		"marker-size": "small",
         "name": "Blackfin",
         "address": "1620 I St NW"
       }
@@ -42,6 +44,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
+		"marker-size": "medium",
         "name": "Churchkey",
         "address": "1337 14th St NW",
         "note": "Ask the bartender for the password"
