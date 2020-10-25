@@ -170,5 +170,1535 @@
         "county": "Kincardineshire"
       }
     }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.096,
+          57.149
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDEEN-MARISCHAL-COLLEGE",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.102,
+          57.164
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDEEN-OBSERVATORY",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.102,
+          57.164
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDEEN-OBSERVATORY",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.102,
+          57.164
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDEEN-OBSERVATORY",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.102,
+          57.164
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDEEN-OBSERVATORY",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.102,
+          57.164
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDEEN-OBSERVATORY",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.110,
+          57.144
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDEEN-ROSE-STREET",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.034,
+          52.547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERDOVEY-PLAS-PENHELIG",
+        "county": "Merionethshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.871,
+          56.619
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERFELDY-DALL-AVON",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.872,
+          56.621
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERFELDY-DALL-AVON",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.862,
+          56.620
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERFELDY-HRS",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.318,
+          53.818
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERFORD-LOTHERTON-HALL",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.386,
+          56.179
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERFOYLE-THE-INN",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.010,
+          51.823
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERGAVENNY-LARCHFIELD",
+        "county": "Monmouthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.030,
+          51.833
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERGAVENNY-THE-CHAIN",
+        "county": "Monmouthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.217,
+          57.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERLOUR-MIX",
+        "county": "Banffshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.217,
+          57.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERLOUR-MIX",
+        "county": "Banffshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.018,
+          52.433
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABERYSTWYTH-GOGERDDAN",
+        "county": "Cardiganshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.284,
+          51.660
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABINGDON-SEWAGE-WORKS",
+        "county": "Berkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.098,
+          52.083
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ABINGTON-PIGOTTS-ROYSTON",
+        "county": "Cambridgeshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379,
+          56.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACHNAHARD",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.357,
+          52.558
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACKLETON-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.339,
+          52.578
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACKLETON-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.338,
+          52.587
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACKLETON-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.612,
+          55.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACKLINGTON-BROOMHILL-COLLIERY",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.334,
+          53.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACKWORTH-SCHOOL",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.334,
+          53.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACKWORTH-SCHOOL",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.545,
+          52.640
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACLE",
+        "county": "Norfolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.547,
+          52.638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACLE",
+        "county": "Norfolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.133,
+          51.136
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ACRISE-PLACE",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.502,
+          52.955
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ADDERLEY-NORTON-IN-HALES-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.443,
+          52.945
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ADDERLEY-NORTON-IN-HALES-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.445,
+          52.944
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ADDERLEY-NORTON-IN-HALES-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.506,
+          52.957
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ADDERLEY-NORTON-IN-HALES-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.034,
+          51.347
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ADDINGTON-HARES-BANK",
+        "county": "Surrey-stayed-Surrey"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.062,
+          51.360
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ADDINGTON-HILLS-RES",
+        "county": "Surrey-stayed-Surrey"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.386,
+          53.407
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AHASCRAGH-CLONBROCK",
+        "county": "Galway"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.386,
+          53.407
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AHASCRAGH-CLONBROCK",
+        "county": "Galway"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.109,
+          55.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AILSA-CRAIG",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.879,
+          55.887
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AIRDRIE-HILLEND",
+        "county": "Lanarkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.897,
+          52.198
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALCESTER-RAGLEY",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.891,
+          52.204
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALCESTER-RAGLEY",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.579,
+          52.195
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALDBOROUGH-ALDRINGHAM",
+        "county": "Suffolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.203,
+          51.511
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALDWORTH-READING",
+        "county": "Berkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.199,
+          51.119
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALKHAM-LOWER-STANDEN",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.221,
+          54.806
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALLENHEADS",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.219,
+          54.830
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALLENHEADS",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.219,
+          54.830
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALLENHEADS",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.219,
+          54.830
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALLENHEADS",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.564,
+          56.296
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALLT-A-CHOIN",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.564,
+          56.296
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALLT-A-CHOIN",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.335,
+          57.735
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALNESS-ARDROSS-CASTLE",
+        "county": "Ross and Cromarty"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.708,
+          55.415
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALNWICK-CASTLE",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.910,
+          55.422
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALNWICK-GLANTON-PIKE",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.199,
+          51.082
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALRESFORD-OVINGTON-RECTORY",
+        "county": "Hampshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.381,
+          54.811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALSTON-LOVELADY",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.002,
+          52.281
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALTHORP-HOUSE",
+        "county": "Northamptonshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.707,
+          58.388
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALTNABREAC-HRS",
+        "county": "Caithness"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.707,
+          58.388
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALTNABREAC-HRS",
+        "county": "Caithness"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.349,
+          53.392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALTRINCHAM-BARRINGTON-HOUSE",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.355,
+          53.386
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALTRINCHAM-NORMANS-PLACE",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.355,
+          53.386
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALTRINCHAM-NORMANS-PLACE",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.073,
+          55.369
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALWINTON-BIDDLESTON",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.110,
+          55.336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ALWINTON-HARBOTTLE",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.022,
+          54.438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AMBLESIDE-HIGH-CLOSE",
+        "county": "Westmorland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.970,
+          54.436
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AMBLESIDE-LESKETH-HOWE",
+        "county": "Westmorland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.567,
+          55.517
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ANCRUM-MONTEVIOT",
+        "county": "Roxburghshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.260,
+          55.009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ANNAN-WARMANBIE",
+        "county": "Dumfriesshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.259,
+          56.424
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ANNAT-COTTAGE-PERTHSHIRE",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.259,
+          56.424
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ANNAT-COTTAGE-PERTHSHIRE",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.403,
+          56.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "APPIN-AIRDS",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.403,
+          56.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "APPIN-AIRDS",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.487,
+          54.572
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "APPLEBY-CASTLE-BANK",
+        "county": "Westmorland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.490,
+          54.577
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "APPLEBY-WESTMORLAND",
+        "county": "Westmorland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.796,
+          57.443
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "APPLECROSS-GDNS",
+        "county": "Ross and Cromarty"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.595,
+          56.561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARBROATH-KEPTIE-ROAD",
+        "county": "Angus (Forfar)"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.775,
+          57.463
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDCLACH-GLENFERNESS",
+        "county": "Nairnshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.774,
+          57.465
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDCLACH-GLENFERNESS",
+        "county": "Nairnshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.280,
+          56.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDGOUR-HOUSE",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.280,
+          56.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDGOUR-HOUSE",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.280,
+          56.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDGOUR-HOUSE",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.226,
+          56.727
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDNAMURCHAN-LIGHTHOUSE",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.447,
+          56.012
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDRISHAIG",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.801,
+          55.656
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDROSSAN-KIRKHALL",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.676,
+          54.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARDTREA",
+        "county": "Londonderry"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.791,
+          56.897
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARISAIG-HOUSE",
+        "county": "Inverness"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.650,
+          54.136
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARKHOLME-STORRS",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.650,
+          54.353
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARMAGH-OBSERVATORY",
+        "county": "Armagh"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.650,
+          54.353
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARMAGH-OBSERVATORY",
+        "county": "Armagh"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.099,
+          54.542
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARMBOTH-FELLS-THE-PEWITTS",
+        "county": "Cumberland"
+      }
+    }
   ]
 }
