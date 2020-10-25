@@ -455,7 +455,7 @@
       "properties": {
         "marker-symbol": "circle",
  		"marker-size": "large",
-		"marker-color": "0x9944AA",
+		"marker-color": "9944AA",
        "name": "The Tombs",
         "address": "1226 36th St NW"
       }
