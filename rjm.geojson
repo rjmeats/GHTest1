@@ -1700,5 +1700,6805 @@
         "county": "Cumberland"
       }
     }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.104,
+          54.143
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARNCLIFFE-VICARAGE",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.104,
+          54.143
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARNCLIFFE-VICARAGE",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.104,
+          54.143
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARNCLIFFE-VICARAGE",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.985,
+          53.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARNFIELD-RES",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.985,
+          53.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARNFIELD-RES",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.360,
+          55.582
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARRAN-DOUGARIE",
+        "county": "Bute"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.360,
+          55.582
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARRAN-DOUGARIE",
+        "county": "Bute"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.615,
+          50.883
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARUNDEL-DALE-PARK",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.457,
+          50.849
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARUNDEL-PATCHING",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.456,
+          50.846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARUNDEL-PATCHING",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.617,
+          50.821
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARUNDEL-YAPTON-BONHAMS",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.626,
+          50.818
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ARUNDEL-YAPTON-DROVE-FARM",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.170,
+          52.149
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASH-BOCKING-VICARAGE",
+        "county": "Suffolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.170,
+          52.149
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASH-BOCKING-VICARAGE",
+        "county": "Suffolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.773,
+          50.526
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASHBURTON-DRUID-HOUSE",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.863,
+          51.157
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASHFORD",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.882,
+          51.171
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASHFORD",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.857,
+          51.137
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASHFORD-BEAVER-GREEN",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.758,
+          51.071
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASHFORD-BETHERSDEN",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.065,
+          53.509
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASHTON-UNDER-LYNE-KNOTT-HILL",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.120,
+          53.504
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASHTON-WATERHOUSES",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.287,
+          50.736
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ASHWATER-RECTORY",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.545,
+          52.580
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ATHERSTONE",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.839,
+          53.436
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "ATHLONE-TWYFORD-HOUSE",
+        "county": "Westmeath"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.871,
+          54.855
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AUCHENCAIRN-TORR-HOUSE",
+        "county": "Kirkcudbrightshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.871,
+          54.855
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AUCHENCAIRN-TORR-HOUSE",
+        "county": "Kirkcudbrightshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.065,
+          55.792
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AUCHINRAITH-HAMILTON",
+        "county": "Lanarkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.759,
+          56.337
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AUCHTERARDER-COLQUHALZIE",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.698,
+          56.312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AUCHTERARDER-HOUSE",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.573,
+          59.025
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AUSKERRY",
+        "county": "Orkney"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.686,
+          51.868
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYLESBURY-MENTMORE",
+        "county": "Buckinghamshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.811,
+          51.817
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYLESBURY-NEW-ROAD",
+        "county": "Buckinghamshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.233,
+          52.787
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYLSHAM-WOODGATE",
+        "county": "Norfolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.259,
+          52.798
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYLSHAM-WOODGATE",
+        "county": "Norfolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.628,
+          55.414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-AUCHENDRANE",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.628,
+          55.414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-AUCHENDRANE",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.628,
+          55.414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-AUCHENDRANE",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.628,
+          55.422
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-DOONHOLM",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.637,
+          55.425
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-DOONSIDE",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.625,
+          55.456
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-GLENDRISHAIG",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.597,
+          55.456
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-HOLMSTON",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.308,
+          55.599
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-LANFINE",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.308,
+          55.599
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-LANFINE",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.185,
+          55.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "AYR-SANATORIUM",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.279,
+          51.545
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BADMINTON-GDNS",
+        "county": "Gloucestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.857,
+          52.698
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAGNALSTOWN-FENAGH-HOUSE",
+        "county": "Carlow"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.857,
+          52.699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAGNALSTOWN-FENAGH-HOUSE",
+        "county": "Carlow"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.111,
+          55.852
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAILLIESTON",
+        "county": "Lanarkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.113,
+          51.046
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALCOMBE-GABLES",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.126,
+          51.056
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALCOMBE-GABLES",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.145,
+          51.071
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALCOMBE-HIGHLEY-MANOR",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.132,
+          51.059
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALCOMBE-STOCKCROFT",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.160,
+          51.066
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALCOMBE-WATERWORKS",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.918,
+          59.031
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALFOUR-CASTLE-ORKNEY",
+        "county": "Orkney"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.045,
+          55.041
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALLANTRAE-GLENDRISHAIG",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.228,
+          53.330
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALLINASLOE",
+        "county": "Galway"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.228,
+          53.330
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALLINASLOE",
+        "county": "Galway"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.225,
+          53.621
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALLINROBE-CRANMORE",
+        "county": "Mayo"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.247,
+          53.639
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALLINROBE-CREAGH",
+        "county": "Mayo"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.277,
+          54.861
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALLYMENA-HARRYVILLE",
+        "county": "Antrim"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.233,
+          57.039
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALMORAL-CASTLE-GARDENS",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.523,
+          56.327
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALQUHIDDER-BLAIRCREACH",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.523,
+          56.327
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALQUHIDDER-BLAIRCREACH",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.384,
+          56.352
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALQUHIDDER-STRONVAR",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.855,
+          60.761
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALTASOUND",
+        "county": "Shetland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.886,
+          60.762
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BALTASOUND",
+        "county": "Shetland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.723,
+          55.607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAMBURGH",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.716,
+          55.608
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAMBURGH",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.424,
+          50.975
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAMPTON-HUNTSHAM",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.992,
+          53.191
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANAGHER",
+        "county": "King's County / Offaly"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.288,
+          54.376
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANBRIDGE-MILLTOWN",
+        "county": "Down"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.288,
+          54.376
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANBRIDGE-MILLTOWN",
+        "county": "Down"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.288,
+          54.376
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANBRIDGE-MILLTOWN",
+        "county": "Down"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.481,
+          52.033
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANBURY-SIBFORD",
+        "county": "Oxfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.481,
+          52.033
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANBURY-SIBFORD",
+        "county": "Oxfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.471,
+          52.027
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANBURY-SIBFORD",
+        "county": "Oxfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.556,
+          57.059
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANCHORY-INVERCANNIE-RES",
+        "county": "Kincardineshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.449,
+          57.087
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANCHORY-INVERCANNIE-RES",
+        "county": "Kincardineshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.117,
+          53.192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANGOR",
+        "county": "Caernarfonshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.096,
+          53.225
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANGOR-PENRHYN-CASTLE",
+        "county": "Caernarfonshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.096,
+          53.225
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANGOR-PENRHYN-CASTLE",
+        "county": "Caernarfonshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.454,
+          52.762
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANK-CYNON-TRAF",
+        "county": "Montgomeryshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.457,
+          52.761
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANK-CYNON-TRAF",
+        "county": "Montgomeryshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.227,
+          51.309
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANSTEAD-BURGH-HEATH-RES",
+        "county": "Surrey-stayed-Surrey"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.227,
+          51.309
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BANSTEAD-BURGH-HEATH-RES",
+        "county": "Surrey-stayed-Surrey"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.059,
+          52.682
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARKBY-HALL",
+        "county": "Leicestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.912,
+          54.541
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNARD-CASTLE-COUNTY-SCHOOL",
+        "county": "Durham"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.411,
+          53.574
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNETBY-RAILWAY-STATION",
+        "county": "Lincolnshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.887,
+          52.354
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNINGHAM-THE-BEECHES",
+        "county": "Suffolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.478,
+          53.567
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNSLEY",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.478,
+          53.555
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNSLEY",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.482,
+          53.554
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNSLEY-CHURCH-STREET",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.990,
+          51.146
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNSTAPLE-ARLINGTON-COURT",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.989,
+          51.145
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNSTAPLE-ARLINGTON-COURT",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.060,
+          51.078
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNSTAPLE-ATHENEUM",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.011,
+          52.359
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARNT-GREEN-UPWOOD",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.653,
+          56.785
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARRAHEAD",
+        "county": "Inverness"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.774,
+          55.077
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARRHILL-DOCHROYLE",
+        "county": "Ayrshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.667,
+          51.408
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARROW-GURNEY-RES",
+        "county": "Somerset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.202,
+          53.859
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BARROWFORD-RES",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.105,
+          51.295
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BASINGSTOKE-SHERBORNE-ST-JOHN",
+        "county": "Hampshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.196,
+          54.680
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BASSENTHWAITE-HALL",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.361,
+          51.400
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATH-CHARLCOMBE",
+        "county": "Somerset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.355,
+          51.386
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATH-HENRIETTA-PARK",
+        "county": "Somerset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.354,
+          51.438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATH-MONKSWOOD-RES",
+        "county": "Gloucestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.358,
+          51.381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATH-ROYAL-INSTITUTION",
+        "county": "Somerset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.334,
+          51.415
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATHEASTON-RES",
+        "county": "Somerset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.655,
+          53.708
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATLEY-STAINCLIFFE-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.165,
+          51.480
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATTERSEA-PARK",
+        "county": "Surrey-became-London"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.165,
+          51.480
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATTERSEA-PARK",
+        "county": "Surrey-became-London"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.502,
+          50.940
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BATTLE-WHATLINGTON",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.961,
+          51.084
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAVERSTOCK",
+        "county": "Wiltshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.095,
+          51.777
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAYFORDBURY",
+        "county": "Hertfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.095,
+          51.777
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BAYFORDBURY",
+        "county": "Hertfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.238,
+          50.749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEACHY-HEAD",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.238,
+          50.749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEACHY-HEAD",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.533,
+          52.515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BECCLES-RAVENINGHAM-HALL",
+        "county": "Norfolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.035,
+          51.404
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BECKENHAM-CROYDON-ROAD",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.031,
+          51.402
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BECKENHAM-PARKSIDE",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.031,
+          51.402
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BECKENHAM-PARKSIDE",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.031,
+          51.402
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BECKENHAM-PARKSIDE",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.599,
+          54.264
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDALE-THORPE-PERROW",
+        "county": "Yorkshire North Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.511,
+          52.192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDFORD-CASTLE-ROAD",
+        "county": "Bedfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.460,
+          52.136
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDFORD-CASTLE-ROAD",
+        "county": "Bedfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.473,
+          52.141
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDFORD-MIX",
+        "county": "Bedfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.472,
+          52.139
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDFORD-MIX",
+        "county": "Bedfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.469,
+          52.139
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDFORD-MIX",
+        "county": "Bedfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.473,
+          52.135
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDFORD-MIX",
+        "county": "Bedfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.467,
+          52.147
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDFORD-THE-PARK",
+        "county": "Bedfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.473,
+          52.478
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEDWORTH-CEMETERY",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.136,
+          51.421
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEENHAM",
+        "county": "Berkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.930,
+          54.597
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BELFAST-LINEN-HALL",
+        "county": "Antrim"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.935,
+          54.584
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BELFAST-QUEENS-UNIVERSITY",
+        "county": "Antrim"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.851,
+          55.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BELFORD-MIDDLETON-HALL",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.962,
+          55.111
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BELLARENA",
+        "county": "Londonderry"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.092,
+          54.479
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BELLEEK-HERONSHAW",
+        "county": "Fermanagh"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.302,
+          55.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BELLINGHAM-HIGHGREEN",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.783,
+          52.895
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BELVOIR-CASTLE",
+        "county": "Leicestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.783,
+          52.895
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BELVOIR-CASTLE",
+        "county": "Leicestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.335,
+          56.246
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEN-LEDI",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.319,
+          56.240
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEN-LEDI",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.584,
+          56.178
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEN-LOMOND-DUCHRAY-VALLEY",
+        "county": "Stirlingshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.578,
+          56.181
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEN-LOMOND-DUCHRAY-VALLEY",
+        "county": "Stirlingshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.617,
+          51.087
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BENENDEN-SANATORIUM",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.617,
+          51.087
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BENENDEN-SANATORIUM",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.617,
+          51.087
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BENENDEN-SANATORIUM",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.984,
+          56.028
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BENMORE",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.984,
+          56.028
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BENMORE",
+        "county": "Argyll"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.220,
+          50.754
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BERE-REGIS-BARROW-HILL",
+        "county": "Dorset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.457,
+          51.688
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BERKELEY-GLOUCESTER",
+        "county": "Gloucestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.481,
+          51.722
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BERKELEY-SHARPNESS-DOCKS",
+        "county": "Gloucestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.567,
+          51.759
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BERKHAMPSTEAD",
+        "county": "Hertfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.052,
+          51.495
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BERMONDSEY-SOUTHWARK-PARK",
+        "county": "Surrey-became-London"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.052,
+          51.495
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BERMONDSEY-SOUTHWARK-PARK",
+        "county": "Surrey-became-London"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.527,
+          58.181
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BERRIEDALE-LANGWELL",
+        "county": "Caithness"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.998,
+          55.769
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BERWICK-ON-TWEED-RAMPARTS",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.048,
+          51.534
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BETHNAL-GREEN-VICTORIA-PARK",
+        "county": "Middlesex-became-London"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.048,
+          51.534
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BETHNAL-GREEN-VICTORIA-PARK",
+        "county": "Middlesex-became-London"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.219,
+          58.529
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BETTYHILL",
+        "county": "Sutherland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.459,
+          53.826
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEVERLEY-BROADGATE",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.400,
+          53.870
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEVERLEY-HULL-BRIDGE",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.440,
+          53.848
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEVERLEY-NEW-WALK",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.460,
+          52.374
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEWDLEY-MAWLEY-HALL",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.310,
+          52.369
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEWDLEY-WINTERDYNE",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.310,
+          52.369
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEWDLEY-WINTERDYNE",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.310,
+          52.369
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEWDLEY-WINTERDYNE",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.478,
+          50.844
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BEXHILL-THE-GRANGE",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.238,
+          51.907
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BICESTER-MIDDLETON-PARK",
+        "county": "Oxfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.238,
+          51.907
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BICESTER-MIDDLETON-PARK",
+        "county": "Oxfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.275,
+          51.158
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BICKNOLLER-WEACOMBE-HOUSE",
+        "county": "Somerset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.165,
+          51.007
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIDEFORD-GAMMATON-WW",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.165,
+          51.007
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIDEFORD-GAMMATON-WW",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.215,
+          51.038
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIDEFORD-NORTHAM-VIC",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.239,
+          50.979
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIDEFORD-ORLEIGH-COURT",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.873,
+          52.182
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIDFORD-MOOR-HALL",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.074,
+          53.400
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIDSTON-OBSERVATORY",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.074,
+          53.400
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIDSTON-OBSERVATORY",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.237,
+          52.059
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIGGLESWADE-WW",
+        "county": "Bedfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.417,
+          51.621
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BILLERICAY-SERVICE-TANK",
+        "county": "Essex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.028,
+          55.055
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BINGFIELD-HOUSE-NORTHUMBERLAND",
+        "county": "Northumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.821,
+          53.851
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BINGLEY-GILSTEAD-FILTERS",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.851,
+          53.885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BINGLEY-SUNNYDALE",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.322,
+          51.378
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRCHINGTON-FERNLEIGH",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.750,
+          54.075
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRDSALL-GDNS",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.873,
+          52.492
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-BLOOMSBURY-ST",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.932,
+          52.467
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-BOTANIC-GARDENS",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.920,
+          52.470
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-CALTHORPE",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.878,
+          52.468
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-CAMP-HILL",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.934,
+          52.476
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-EDGBASTON",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.779,
+          52.452
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-SHELDON-RECTORY",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.851,
+          52.451
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-SPARKHILL",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.912,
+          52.480
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-THE-CRESCENT",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.912,
+          52.480
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-THE-CRESCENT",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.910,
+          52.463
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WELLINGTON-ROAD",
+        "county": "Warwickshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.660,
+          52.347
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-ABERGWNGU",
+        "county": "Cardiganshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.619,
+          52.332
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-ABERHENLLAN",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.750,
+          52.283
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-BWLCHYRHENDRE",
+        "county": "Cardiganshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652,
+          52.317
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-CALETTWR",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.698,
+          52.309
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-CERIGLLWYDION",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.773,
+          52.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-CLAERDDU",
+        "county": "Cardiganshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.732,
+          52.291
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-CLAERWEN",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.670,
+          52.280
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-ESGAIR-GADER",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.674,
+          52.285
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-ESGAIR-GADER",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.698,
+          52.265
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-ESGAIR-GARTHEN",
+        "county": "Brecknockshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.727,
+          52.326
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-FIGIN",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.721,
+          52.329
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-FIGIN",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.706,
+          52.345
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-GWNGU",
+        "county": "Cardiganshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.684,
+          52.239
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-LLYN-CARW",
+        "county": "Brecknockshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.578,
+          52.300
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-PEN-Y-GAREG",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.576,
+          52.297
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-PEN-Y-GAREG",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.596,
+          52.294
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-PEN-Y-GAREG",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.596,
+          52.294
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-PEN-Y-GAREG",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.616,
+          52.293
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-TYNANT",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.592,
+          52.250
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRMINGHAM-WW-TYRMYNYDD",
+        "county": "Radnorshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.914,
+          53.097
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRR-CASTLE",
+        "county": "King's County / Offaly"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.914,
+          53.097
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRR-CASTLE",
+        "county": "King's County / Offaly"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.914,
+          53.097
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIRR-CASTLE",
+        "county": "King's County / Offaly"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.932,
+          51.399
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-CANNING-DEVIZES-WW-SHEPHERDS-SHORE",
+        "county": "Wiltshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.940,
+          51.379
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-CANNINGS",
+        "county": "Wiltshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.000,
+          52.488
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-CASTLE-HIGH-SCHOOL",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997,
+          52.492
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-CASTLE-HIGH-SCHOOL",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.971,
+          52.517
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-CASTLE-MORE-RECTORY",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.999,
+          52.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-CASTLE-THE-MOUNT",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997,
+          52.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-CASTLE-THE-MOUNT",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.005,
+          52.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-CASTLE-THE-MOUNT",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.157,
+          51.905
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-STORTFORD-HASSOBURY",
+        "county": "Essex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.166,
+          50.944
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-WALTHAM-HILL-PLACE",
+        "county": "Hampshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.171,
+          50.957
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPS-WALTHAM-SWANMORE-HOUSE",
+        "county": "Hampshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.386,
+          54.909
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BISHOPWEARMOUTH",
+        "county": "Durham"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.644,
+          52.392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BITTERLEY-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.644,
+          52.393
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BITTERLEY-MIX",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.442,
+          60.320
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BIXTER-VEMENTRY",
+        "county": "Shetland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.451,
+          53.729
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLACKBURN-GUIDE-RES",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.503,
+          53.744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLACKBURN-WITTON",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.052,
+          53.796
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLACKPOOL-SOUTH-SHORE",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.089,
+          53.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLACKSTONE-EDGE-HOLLINGWORTH-LAKE",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.949,
+          53.003
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLAENAU-FESTINIOG-OAKELEY-QUARRY",
+        "county": "Merionethshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.847,
+          56.765
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLAIR-ATHOLL",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.859,
+          56.773
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLAIR-ATHOLL",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.860,
+          56.770
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLAIR-ATHOLL",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.761,
+          52.011
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLOCKLEY",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.787,
+          52.010
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLOCKLEY",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.761,
+          52.011
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLOCKLEY",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.028,
+          52.620
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLOXWICH-SNEYD-RES",
+        "county": "Staffordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.173,
+          50.754
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BLOXWORTH-HOUSE-BERE-REGIS",
+        "county": "Dorset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.597,
+          52.250
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOCKLETON",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.378,
+          53.230
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BODFARI-NANTLYS",
+        "county": "Flintshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.716,
+          50.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BODMIN-CASTLE-ST",
+        "county": "Cornwall"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.716,
+          50.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BODMIN-CASTLE-ST",
+        "county": "Cornwall"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.716,
+          50.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BODMIN-CASTLE-ST",
+        "county": "Cornwall"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.722,
+          50.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BODMIN-FORE-ST",
+        "county": "Cornwall"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.676,
+          50.792
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOGNOR-IVYCROFT",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.661,
+          50.814
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOGNOR-LIDSEY-LODGE",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.669,
+          50.784
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOGNOR-REGIS-ALBERT-ROAD",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.677,
+          50.782
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOGNOR-REGIS-WATERLOO-SQUARE",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.046,
+          53.320
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOLLINGTON-SPONDS-HILL",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.892,
+          53.982
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOLTON-ABBEY-ESTATE",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.482,
+          53.584
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOLTON-HEATON-RES",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.474,
+          53.582
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOLTON-HEATON-RES",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.474,
+          53.582
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOLTON-HEATON-RES",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.426,
+          53.581
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOLTON-LANCS",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.423,
+          53.579
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOLTON-LE-MOORS",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.455,
+          53.602
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOLTON-SMITHILLS-HALL",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.181,
+          54.499
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BORROWDALE-SEATHWAITE",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.181,
+          54.499
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BORROWDALE-SEATHWAITE",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.181,
+          54.499
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BORROWDALE-SEATHWAITE",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183,
+          54.499
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BORROWDALE-SEATHWAITE",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183,
+          54.499
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BORROWDALE-SEATHWAITE",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183,
+          54.499
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BORROWDALE-SEATHWAITE",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183,
+          54.499
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BORROWDALE-SEATHWAITE",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.091,
+          53.193
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOSLEY-MINNS",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.111,
+          53.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOSLEY-RES",
+        "county": "Cheshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.029,
+          52.966
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOSTON-BLACK-SLUICE-SKIRBECK",
+        "county": "Lincolnshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.031,
+          52.981
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOSTON-GRAND-SLUICE",
+        "county": "Lincolnshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020,
+          52.981
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOSTON-LINCS",
+        "county": "Lincolnshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.090,
+          55.810
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOTHWELL-CASTLE",
+        "county": "Lanarkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.061,
+          55.796
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOTHWELL-CASTLE",
+        "county": "Lanarkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.754,
+          51.886
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOURTON-ON-THE-WATER-CHARDWAR",
+        "county": "Gloucestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.675,
+          50.592
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOVEY-TRACEY",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.908,
+          55.541
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BOWHILL-SELKIRK",
+        "county": "Selkirkshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.468,
+          53.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRACKENFIELD-LINDWAY-RES",
+        "county": "Derbyshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.816,
+          53.772
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-BRAYSHAW-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.813,
+          53.807
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-CHELLOW-DEAN-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.813,
+          53.807
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-CHELLOW-DEAN-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.885,
+          53.803
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-DOE-PARK-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.885,
+          53.803
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-DOE-PARK-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.768,
+          53.814
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-HEATON-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.768,
+          53.814
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-HEATON-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.891,
+          53.816
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-HEWENDEN-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.891,
+          53.816
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-HEWENDEN-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.941,
+          53.802
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-LEEMING-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.985,
+          53.812
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-LEESHAW-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.950,
+          53.796
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-NANS-SCAR",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.844,
+          53.768
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-QUEENSBURY",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.915,
+          53.795
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-STUBDEN-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.915,
+          53.795
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-STUBDEN-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.915,
+          53.795
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADFORD-STUBDEN-RES",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.416,
+          50.828
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADNINCH",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.428,
+          50.824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADNINCH",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.428,
+          50.824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADNINCH",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876,
+          51.711
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRADWELL-HALL",
+        "county": "Essex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.399,
+          57.006
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAEMAR-BANK",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.029,
+          57.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAEMORE-HOUSE",
+        "county": "Ross and Cromarty"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.934,
+          57.736
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAEMORE-LOCH-DROMA",
+        "county": "Ross and Cromarty"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.054,
+          57.801
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAEMORE-LODGE-FOICH",
+        "county": "Ross and Cromarty"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.561,
+          51.915
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAINTREE-BOCKING-FENNES",
+        "county": "Essex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.940,
+          53.872
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAITHWAITE-KEIGHLEY",
+        "county": "Yorkshire West Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.357,
+          53.933
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRANDESBURTON-HEMPHOLM-LOCK",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.916,
+          50.731
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRANKSOME-BOURNE-VALLEY",
+        "county": "Dorset"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.227,
+          54.474
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRANT-RIGG",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.840,
+          55.400
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRANXHOLM",
+        "county": "Roxburghshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.150,
+          53.192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAY-FASSAROE",
+        "county": "Wicklow"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.150,
+          53.192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAY-FASSAROE",
+        "county": "Wicklow"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.150,
+          53.192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAY-FASSAROE",
+        "county": "Wicklow"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.531,
+          54.438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRAYSTONES",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.660,
+          56.834
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRECHIN-THE-BURN",
+        "county": "Kincardineshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.660,
+          56.834
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRECHIN-THE-BURN",
+        "county": "Kincardineshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.301,
+          51.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRENTWOOD-SAWYERS-HALL-FARM",
+        "county": "Essex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.122,
+          60.120
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRESSAY-LIGHTHOUSE",
+        "county": "Shetland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.111,
+          60.152
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRESSAY-MANSE",
+        "county": "Shetland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.556,
+          52.800
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRETBY-PARK-BURTON",
+        "county": "Derbyshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.207,
+          52.690
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BREWOOD-BELVIDE-RES",
+        "county": "Staffordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.207,
+          52.690
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BREWOOD-BELVIDE-RES",
+        "county": "Staffordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.427,
+          56.342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGE-OF-EARN-BALLANDRICK",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.363,
+          56.228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGE-OF-TURK",
+        "county": "Perthshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.488,
+          52.555
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGNORTH-ALDENHAM-PARK",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.432,
+          52.551
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGNORTH-CANTREYN",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.428,
+          52.547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGNORTH-CANTREYN",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.428,
+          52.547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGNORTH-CANTREYN",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.336,
+          52.474
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGNORTH-COTON-HALL",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.336,
+          52.474
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGNORTH-COTON-HALL",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.491,
+          52.543
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGNORTH-MORVILLE-HALL",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.382,
+          52.527
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDGNORTH-STANMORE-HALL",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.205,
+          54.088
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDLINGTON-CORPORATION-NURSERIES",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.211,
+          54.085
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIDLINGTON-SCHOOL",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.500,
+          53.551
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGG-BRIDGE-STREET",
+        "county": "Lincolnshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.482,
+          53.547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGG-RAILWAY-STATION",
+        "county": "Lincolnshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.137,
+          50.821
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGHTON-OLD-STEYNE",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.095,
+          50.860
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGHTON-WW-FALMER",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.176,
+          50.844
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGHTON-WW-GOLDSTONE-BOTTOM",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.128,
+          50.839
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGHTON-WW-LEWES-ROAD",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.235,
+          50.857
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGHTON-WW-MILE-OAK",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.163,
+          50.867
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGHTON-WW-PATCHAM",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.106,
+          50.835
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIGHTON-WW-RACE-HILL",
+        "county": "Sussex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.596,
+          51.454
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRISTOL-SMALL-STREET",
+        "county": "Gloucestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.525,
+          50.392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIXHAM-COMBE-BANK",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.525,
+          50.392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRIXHAM-COMBE-BANK",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.635,
+          52.801
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROADFORD-HURDLESTOWN",
+        "county": "Clare"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.275,
+          50.836
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROADHEMBURY",
+        "county": "Devon"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.749,
+          52.381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMFIELD-OAKLY-PARK",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.035,
+          51.383
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMLEY-COMMON",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.035,
+          51.383
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMLEY-COMMON",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.153,
+          52.954
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMLEY-HOUSE-NOTTINGHAM",
+        "county": "Nottinghamshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.008,
+          51.371
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMLEY-WEST-WICKHAM",
+        "county": "Kent-stayed-Kent"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.971,
+          52.367
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMSGROVE-LOWER-BITTAL-RES",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.971,
+          52.367
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMSGROVE-LOWER-BITTAL-RES",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.084,
+          52.303
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMSGROVE-STOKE-REFORMATORY",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.084,
+          52.303
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMSGROVE-STOKE-REFORMATORY",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.006,
+          52.322
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMSGROVE-TARDEBIGGE-RES",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.018,
+          52.319
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMSGROVE-TARDEBIGGE-RES",
+        "county": "Worcestershire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.502,
+          52.206
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMYARD-BUCKENHILL",
+        "county": "Herefordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.541,
+          52.204
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMYARD-ROWDEN-ABBEY",
+        "county": "Herefordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.541,
+          52.204
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROMYARD-ROWDEN-ABBEY",
+        "county": "Herefordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.507,
+          52.620
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROSELEY-BENTHALL-HALL",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.568,
+          53.749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROUGH-BRANTINGHAM-THORPE",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.727,
+          54.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROUGHAM",
+        "county": "Westmorland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.727,
+          54.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROUGHAM",
+        "county": "Westmorland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.162,
+          54.949
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROUGHSHANE-QUOLIE",
+        "county": "Antrim"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.470,
+          54.687
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROUGHTON-MOOR",
+        "county": "Cumberland"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.014,
+          51.748
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BROXBOURNE-STAFFORD-HOUSE",
+        "county": "Hertfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.485,
+          52.765
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BRYN-GWYN",
+        "county": "Montgomeryshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.925,
+          53.810
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUBWITH-GUNBY",
+        "county": "Yorkshire East Riding"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.775,
+          57.470
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUCHANNESS-LIGHTHOUSE",
+        "county": "Aberdeenshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.298,
+          56.113
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUCHLYVIE-THE-MANSE",
+        "county": "Stirlingshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.033,
+          51.632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUCKHURST-HILL-ARDMORE",
+        "county": "Essex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.031,
+          51.625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUCKHURST-HILL-RESERVOIR",
+        "county": "Essex"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.937,
+          57.655
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUCKIE-ROCHOMIE",
+        "county": "Banffshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.937,
+          57.655
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUCKIE-ROCHOMIE",
+        "county": "Banffshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.948,
+          52.356
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUCKNELL-VICARAGE",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.750,
+          56.468
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUDDONNESS",
+        "county": "Angus (Forfar)"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.003,
+          51.902
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUNTINGFORD-HAMELS-PARK",
+        "county": "Hertfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057,
+          51.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BUNTINGFORD-THROCKING-RECTORY",
+        "county": "Hertfordshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.614,
+          52.309
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURFORD-TENBURY",
+        "county": "Shropshire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.671,
+          52.589
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURGH-CASTLE-GREAT-YARMOUTH",
+        "county": "Suffolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.741,
+          52.952
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNHAM-OVERY-NORFOLK",
+        "county": "Norfolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.741,
+          52.949
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNHAM-OVERY-NORFOLK",
+        "county": "Norfolk"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.241,
+          54.745
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNHOPE-BRIDGE-RES",
+        "county": "Durham"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.273,
+          54.729
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNHOPE-GRASS-MERES",
+        "county": "Durham"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.164,
+          53.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-SHEDDIN-WW",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.164,
+          53.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-SHEDDIN-WW",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.164,
+          53.778
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-CANT-CLOUGH-N",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.168,
+          53.778
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-CANT-CLOUGH-N",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.162,
+          53.772
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-CANT-CLOUGH-S",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.162,
+          53.772
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-CANT-CLOUGH-S",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.168,
+          53.760
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-CAUSEWAY-SIDE",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.168,
+          53.759
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-CAUSEWAY-SIDE",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.143,
+          53.781
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-RAMS-CLOUGH",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.149,
+          53.790
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-RAMS-CLOUGH",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.175,
+          53.797
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-SWINDEN-LOWER",
+        "county": "Lancashire"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.164,
+          53.794
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "medium",
+        "name": "BURNLEY-WW-SWINDEN-UPPER",
+        "county": "Lancashire"
+      }
+    }
   ]
 }
