@@ -24,7 +24,7 @@ Concatenation file match: *[Not matched]*
 |2.12|100|2.12||
 |87|85|<span style="color: coral;">**.87**</span>|Adjusted: Inferred decimal point restored|
 |1.50|99|1.50||
-|3.3%|50|-|Not recognised|
+|<span style="color: coral;">**3.3%**</span>|50||Not recognised|
 |1.49|100|1.49||
 |2.65|99|2.65||
 |6.09|99|6.09||
