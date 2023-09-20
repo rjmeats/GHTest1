@@ -10,10 +10,10 @@ Concatenation file match: *[Not matched]*
 489 'Word Blocks' in the Textract response.
 ### Totals Extraction
 
-<img src="../totals_matching/DR_Anglesey_1871-1880C_p020.rot.totals.jpg" width="500" />
+<img src="../totals_matching/DR_Anglesey_1871-1880C_p020.rot.totals.jpg" width="800" />
 
 &nbsp;<br/>
-<img src="../totals_matching/DR_Anglesey_1871-1880C_p020.rot.ext.totals.jpg" width="500" />
+<img src="../totals_matching/DR_Anglesey_1871-1880C_p020.rot.ext.totals.jpg" width="800" />
 
 12 potential monthly totals extracted
 |Raw text|Confidence|For matching|Notes|
