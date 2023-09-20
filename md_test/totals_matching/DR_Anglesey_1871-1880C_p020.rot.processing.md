@@ -33,8 +33,8 @@ Concatenation file match: **MENAIFRON.csv** year **1871**
 
 ### Matching to a TYRain sheet+year
 
-Most matches : 11 matches (cases = 1)<br/>
-.. followed by : 4 matches (cases = 1)<br/>
+Most monthly matches : 11 matches (1 case)<br/>
+.. next best : 4 matches (1 case)<br/>
 
 
 Clear best sheet match found: **TYRain_1870-1879_10_pt2/p108** year **1871**<br/>
@@ -49,8 +49,8 @@ Details of the best match:
 |4|April|2.12|Yes|2.12|100|2.12||
 |5|May|0.87|Yes|87|85|.87|Adjusted: Inferred decimal point restored|
 |6|June|1.5|Yes|1.50|99|1.50||
-|7|July|3.69|<span style="color: coral;">No</span>|||||
-||||<span style="color: coral;">No</span>|3.3%|50|-|Not recognised as a monthly total|
+|7|July|3.69|<span style="color: coral;">**No**</span>|||||
+||||<span style="color: coral;">**No**</span>|3.3%|50|-|Not recognised as a monthly total|
 |8|August|1.49|Yes|1.49|100|1.49||
 |9|September|2.65|Yes|2.65|99|2.65||
 |10|October|6.09|Yes|6.09|99|6.09||
