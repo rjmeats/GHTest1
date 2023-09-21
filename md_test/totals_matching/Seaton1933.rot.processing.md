@@ -1,4 +1,4 @@
-## Daily Rainfall Sheet Processing
+## Daily Rainfall Sheet Processing: Seaton1933.rot.jpg
 
 Image file: **Seaton1933.rot.jpg** : [link](../rotated/Seaton1933.rot.jpg)<br/>Image shape: 4302 rows x 2491 columns
 
