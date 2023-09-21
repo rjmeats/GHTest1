@@ -35,35 +35,35 @@ Concatenation file match: *[Not matched]*
 
 ### Matching to a TYRain sheet + year
 
-Most monthly matches : 9 matches (1 case)<br/>
-Next best : 3 matches (129 cases)<br/>
+* clear best TYRain sheet match found: **TYRain_1931-1940_11_pt1/p170** year **1933**
+* most monthly matches: 9 matches (1 case)
+* next best: 3 matches (129 cases)
 
 
-Clear best TYRain sheet match found: **TYRain_1931-1940_11_pt1/p170** year **1933**<br/>
-<br/>
 
-<detailsx>
+<details>
 <summary>Details of the best TYRain sheet match</summary>
 
-|   |Month|Value|Match?||Raw extract|Conf|Adj extract|Notes|
-|--:|:----|----:|:-----|:-----|--------:|----:|---------:|:----|
-|1|January|2.28|Yes|&#x22EE;|2.28|100|2.28||
-|2|February|4.89|Yes|&#x22EE;|4.89|88|4.89||
-|3|March|3.71|Yes|&#x22EE;|3.71|100|3.71||
-|4|April|2.13|<span style="color: coral;">**No**</span>|&#x22EE;|||||
-||||<span style="color: coral;">**No**</span>|&#x22EE;|2.63|63|2.63||
-|5|May|2.01|Yes|&#x22EE;|2.01|74|2.01||
-|6|June|2.22|Yes|&#x22EE;|2.22|87|2.22||
-|7|July|2.6|<span style="color: coral;">**No**</span>|&#x22EE;|||||
-||||<span style="color: coral;">**No**</span>|&#x22EE;|2.58|39|2.58||
-|8|August|2.57|Yes|&#x22EE;|2.57|99|2.57||
-|9|September|2.31|<span style="color: coral;">**No**</span>|&#x22EE;|||||
-||||<span style="color: coral;">**No**</span>|&#x22EE;|2.4|67|-|Not recognised as a monthly total|
-||||<span style="color: coral;">**No**</span>|&#x22EE;|3.|80|-|Not recognised as a monthly total|
-|10|October|2.18|Yes|&#x22EE;|2.18|95|2.18||
-|11|November|1.02|Yes|&#x22EE;|1.02|88|1.02||
-|12|December|1.78|Yes|&#x22EE;|178|58|1.78|Adjusted: Inferred decimal point restored|
-||||<span style="color: coral;">**No**</span>|&#x22EE;|29.70|98|29.70||
+
+|   |RR Month|RR Value|Match?|Raw extract|Conf|Adj extract|Notes|
+|--:|:-------|-------:|:-----|----------:|---:|----------:|:----|
+|1|January|2.28|Yes|2.28|100|2.28||
+|2|February|4.89|Yes|4.89|88|4.89||
+|3|March|3.71|Yes|3.71|100|3.71||
+|4|April|2.13|<span style="color: coral;">**No**</span>|||||
+||||<span style="color: coral;">**No**</span>|2.63|63|2.63||
+|5|May|2.01|Yes|2.01|74|2.01||
+|6|June|2.22|Yes|2.22|87|2.22||
+|7|July|2.6|<span style="color: coral;">**No**</span>|||||
+||||<span style="color: coral;">**No**</span>|2.58|39|2.58||
+|8|August|2.57|Yes|2.57|99|2.57||
+|9|September|2.31|<span style="color: coral;">**No**</span>|||||
+||||<span style="color: coral;">**No**</span>|2.4|67|-|Not recognised as a monthly total|
+||||<span style="color: coral;">**No**</span>|3.|80|-|Not recognised as a monthly total|
+|10|October|2.18|Yes|2.18|95|2.18||
+|11|November|1.02|Yes|1.02|88|1.02||
+|12|December|1.78|Yes|178|58|1.78|Adjusted: Inferred decimal point restored|
+||||<span style="color: coral;">**No**</span>|29.70|98|29.70||
 
 Matched 9 out of 12 monthly totals
 
@@ -72,25 +72,24 @@ Matched 9 out of 12 monthly totals
 
 ### Matching to a Concatenation file + year
 
-Most monthly matches : 3 matches (123 cases)<br/>
-Next best : 2 matches (5619 cases)<br/>
+* **no clear** Concatenation file match found
+* most monthly matches: 3 matches (123 cases)
+* next best: 2 matches (5619 cases)
+* best Concatenation file matches found:
+  * ALCESTER-THE-PLECK.csv year 1955
+  * ALVECHURCH-UPLANDS.csv year 1893
+  * ALVECHURCH-UPLANDS.csv year 1899
+  * APPLETON-RES-2.csv year 1955
+  * ARUNDEL-CASTLE.csv year 1936
+  * .. and 118 more ..
 
-
-**No clear Concatenation file match found**<br/>
-Best Concatenation file matches found:
-* ALCESTER-THE-PLECK.csv year 1955
-* ALVECHURCH-UPLANDS.csv year 1893
-* ALVECHURCH-UPLANDS.csv year 1899
-* APPLETON-RES-2.csv year 1955
-* ARUNDEL-CASTLE.csv year 1936
-* .. and more ..
-<br/>
 
 <details>
-<summary>Details of an example Concatenation file match</summary>
+<summary>Details of ALCESTER-THE-PLECK.csv year 1955 as an example  Concatenation file match</summary>
 
-|   |Month|Value|Match?|Raw match|Conf.|Adj. match|Notes|
-|--:|:----|----:|:-----|--------:|----:|---------:|:----|
+
+|   |RR Month|RR Value|Match?|Raw extract|Conf|Adj extract|Notes|
+|--:|:-------|-------:|:-----|----------:|---:|----------:|:----|
 |1|January|2.65|<span style="color: coral;">**No**</span>|||||
 ||||<span style="color: coral;">**No**</span>|2.28|100|2.28||
 |2|February|1.59|<span style="color: coral;">**No**</span>|||||
@@ -117,4 +116,5 @@ Best Concatenation file matches found:
 
 Matched 3 out of 12 monthly totals
 
+</details>
 
