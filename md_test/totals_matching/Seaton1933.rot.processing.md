@@ -45,7 +45,7 @@ Clear best TYRain sheet match found: **TYRain_1931-1940_11_pt1/p170** year **193
 <detailsx>
 <summary>Details of the best TYRain sheet match</summary>
 
-|   |Month|Value|Match?||Raw match|Conf.|Adj. match|Notes|
+|   |Month|Value|Match?||Raw extract|Conf|Adj extract|Notes|
 |--:|:----|----:|:-----|:-----|--------:|----:|---------:|:----|
 |1|January|2.28|Yes|&#x22EE;|2.28|100|2.28||
 |2|February|4.89|Yes|&#x22EE;|4.89|88|4.89||
