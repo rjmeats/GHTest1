@@ -43,7 +43,7 @@ Concatenation file match: *[Not matched]*
 
 <details>
 <summary>Details of the best TYRain sheet match</summary>
-
+<br/>
 
 |   |RR Month|RR Value|Match?|Raw extract|Conf|Adj extract|Notes|
 |--:|:-------|-------:|:-----|----------:|---:|----------:|:----|
@@ -86,7 +86,7 @@ Matched 9 out of 12 monthly totals
 
 <details>
 <summary>Details of ALCESTER-THE-PLECK.csv year 1955 as an example  Concatenation file match</summary>
-
+<br/>
 
 |   |RR Month|RR Value|Match?|Raw extract|Conf|Adj extract|Notes|
 |--:|:-------|-------:|:-----|----------:|---:|----------:|:----|
