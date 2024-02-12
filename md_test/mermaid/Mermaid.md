@@ -13,7 +13,7 @@ This is my first paragraph.
 
 
 ```mermaid
-gantt
+  gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
     section Section
